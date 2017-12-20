@@ -1,0 +1,353 @@
+@font-face {
+    font-family: 'PTSans-Regular';
+    src: url('font/pts55f.eot');
+    src: url('font/pts55f.eot') format('embedded-opentype'),
+    url('font/pts55f.woff') format('woff'),
+    url('font/pts55f.ttf') format('truetype'),
+    url('font/pts55f.svg#PTSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family:PTSans-Regular, Arial, Tahoma;
+    color:#ffffff;
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.shadow_20px{
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.3);
+}
+
+.shadow_normal {
+    box-shadow: 0px 0px 50px rgba(0,0,0,0.4);
+}
+
+a:link{
+    color:#de3a40
+}
+
+a:visited{
+    color:#de3a40
+}
+
+/**
+*all text contain this class
+*/
+.textfield{
+    direction: ltr;
+    line-height: 150%;
+}
+
+.mainmenu {
+    font-family:PTSans-Regular, Arial, Tahoma;
+    font-weight:normal;
+    font-size:16px;
+    white-space: nowrap;
+}
+
+.childmenu {
+    font-family:PTSans-Regular, Arial, Tahoma;
+    font-weight:normal;
+    font-size:14px;
+    white-space: nowrap;
+}
+
+.devicemainmenu {
+    font-family:PTSans-Regular, Arial, Tahoma;
+    font-weight:normal;
+    font-size:30px;
+    margin:0;
+    padding:0;
+    text-indent:0px;
+    white-space: nowrap;
+}
+
+.devicechildmenu {
+    font-family:PTSans-Regular, Arial, Tahoma;
+    font-weight:normal;
+    font-size:18px;
+    margin:0;
+    padding:0;
+    text-indent:0px;
+    white-space: nowrap;
+}
+
+.input_textfield {
+    font-family:PTSans-Regular, Arial, Tahoma;
+    font-weight:normal;
+}
+
+.loadingtext{
+    font-size:12px;
+    text-align:center;
+}
+
+.textcontainer_content{
+    text-align:left;
+    font-size:16px;
+}
+
+.textcontainer_title{
+    text-align:left;
+    font-size:22px;
+    height: auto;
+}
+
+.deviceTextContainer_content{
+    text-align:left;
+    font-size:20px;
+}
+
+.deviceTextContainer_title{
+    text-align:left;
+    font-size:36px;
+    height: auto;
+}
+
+.tool_tip{
+    text-align:center;
+    font-size: 10px;
+    color:#121212;
+}
+
+.about_title{
+    font-size:30px;
+    text-align:left;
+}
+
+.contact_title{
+    font-size:30px;
+    text-align:left;
+}
+
+.contact_form_status_bg{
+    background-color: #111111;
+}
+
+.contact_form_status_information{
+    font-size:14px;
+    text-align:center;
+    color:#ffffff;
+    font-weight:normal;
+}
+
+.contact_form_title{
+    font-size: 30px;
+    white-space: nowrap;
+}
+
+.contact_read_more_label{
+    text-align:center;
+    font-size:14px;
+    color:#121212;
+}
+
+.error_info_text{
+    padding-top: 5px;
+    white-space: nowrap;
+}
+
+.gallery_info_title{
+    font-size: 16px;
+    text-align:left;
+    width:auto;
+}
+
+.gallery_thumbnail_title_type1{
+    text-align:center
+}
+
+.gallery_thumbnail_title_type2{
+    text-align:left;
+}
+
+.gallery_thumbnail_name{
+    text-align:center;
+    font-size:14px;
+}
+
+.gallery_device_info_title{
+    text-align:left;
+    font-size: 36px;
+}
+
+.gallery_device_info_content{
+    text-align:left;
+    font-size: 18px;
+}
+
+.news_date_tip{
+    text-align:left;
+    font-size:14px;
+    width:auto;
+    max-width: 600px;
+}
+
+.news_images_title{
+    font-size:30px;
+    width:auto;
+    max-width: 600px;
+}
+
+.news_list_title_device{
+    font-size:36px;
+    text-align:left;
+}
+
+.news_list_date_device{
+    text-align:left;
+    font-size:14px;
+}
+
+.news_list_preview_device{
+    font-size:20px;
+    text-align:left;
+}
+
+.news_list_title{
+    text-align:center;
+    font-size:22px;
+}
+
+.news_list_date{
+    text-align:center;
+    font-size:14px;
+}
+
+.news_list_preview{
+    text-align:center;
+    font-size:16px;
+}
+
+.portfolio_list_title{
+    font-size: 22px;
+}
+
+.portfolio_list_preview{
+    font-size: 16px;
+}
+
+.portfolio_image_title{
+    text-align:left;
+    font-size:25px;
+}
+
+.portfolio_list_title_device{
+    text-align:left;
+    font-size:36px;
+}
+
+.portfolio_list_preview_device{
+    text-align:left;
+    font-size:20px;
+}
+
+.portfolio_device_info_title{
+    text-align:left;
+    font-size: 36px;
+}
+
+.portfolio_device_info_content{
+    text-align:left;
+    font-size: 18px;
+}
+
+.slide_title{
+    line-height:120%;
+}
+
+.slide_title_left{
+    text-align:left;
+}
+
+.slide_title_right{
+    text-align:right;
+}
+
+.team_detail_title{
+    font-size: 18px;
+    color:#de3a40;
+    padding-top: 0;
+}
+
+.team_name{
+    text-align:left;
+    font-size:22px;
+}
+
+.team_preview{
+    text-align:left;
+    font-size:14px;
+}
+
+.team_more{
+    text-align:left;
+    font-size:14px;
+}
+
+.footer{
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.footer:before{
+    content:"\f1f9";
+    font-family:FontAwesome;
+    float:left;
+    padding-right:5px;
+}
+
+/**
+*loading
+*/
+.spinner {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    background-color: #de3a40;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 100%;
+    -webkit-animation: scaleout 1.0s infinite ease-in-out;
+    animation: scaleout 1.0s infinite ease-in-out;
+}
+
+.ie-loading{
+    width: 50px;
+    height: 20px;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: block;
+    position: fixed;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    color:#de3a40;
+}
+
+@-webkit-keyframes scaleout {
+    0% { -webkit-transform: scale(0.0) }
+    100% {
+        -webkit-transform: scale(1.0);
+        opacity: 0;
+    }
+}
+
+@keyframes scaleout {
+    0% {
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    } 100% {
+          transform: scale(1.0);
+          -webkit-transform: scale(1.0);
+          opacity: 0;
+          }
+}

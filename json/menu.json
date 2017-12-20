@@ -1,0 +1,156 @@
+﻿{
+	"data" :
+	[
+		{
+			"id" : "home",
+			"name" : "HOME",
+			"src" : "data/json/slideshow.json",
+			"bg" : "data/images/bg/bg.jpg",
+			"menuBgAlpha" : 0.95,
+			"module" : "slideshow"
+		},
+		{
+			"id" : "gallery",
+			"name" : "GALLERY",
+			"childmenus" :
+			[
+				{
+					"id" : "gallery-style1",
+					"name" : "STYLE1-NORMAL",
+					"src" : "data/json/gallery/gallery-style1.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0,
+					"menuBgAlpha" : 0.95,
+					"module" : "gallery"
+				},
+				{
+					"id" : "gallery-style2",
+					"name" : "STYLE2-FULLSCREEN-VERTICAL",
+					"src" : "data/json/gallery/gallery-style2.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.5,
+					"menuBgAlpha" : 0.95,
+					"module" : "gallery"
+				},
+				{
+					"id" : "gallery-style3",
+					"name" : "STYLE3-FULLSCREEN-HORIZONTAL",
+					"src" : "data/json/gallery/gallery-style3.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.9,
+					"menuBgAlpha" : 0.95,
+					"module" : "gallery"
+				},
+				{
+					"id" : "gallery-style4",
+					"name" : "STYLE4-FULLSCREEN-BLACK&WHITE",
+					"src" : "data/json/gallery/gallery-style4.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0,
+					"menuBgAlpha" : 0.95,
+					"module" : "gallery"
+				},
+				{
+					"id" : "gallery-style5",
+					"name" : "STYLE5-FULLSCREEN-GRID",
+					"src" : "data/json/gallery/gallery-style5.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0,
+					"menuBgAlpha" : 0.95,
+					"module" : "gallery"
+				},
+				{
+					"id" : "gallery-style6",
+					"name" : "STYLE6-HORIZONTAL",
+					"src" : "data/json/gallery/gallery-style6.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.9,
+					"menuBgAlpha" : 0.95,
+					"module" : "gallery"
+				}
+			]
+		},
+		{
+			"id" : "portfolio",
+			"name" : "PORTFOLIO",
+			"childmenus" :
+			[
+				{
+					"id" : "portfolio-1-row",
+					"name" : "PORTFOLIO-STYLE-1ROW",
+					"src" : "data/json/portfolio/portfolio-1-row.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.3,
+					"menuBgAlpha" : 0,
+					"module" : "portfolio"
+				},
+				{
+					"id" : "portfolio-1-row-tips",
+					"name" : "PORTFOLIO-STYLE-1ROW-TIPS",
+					"src" : "data/json/portfolio/portfolio-1-row-tips.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.3,
+					"menuBgAlpha" : 0,
+					"module" : "portfolio"
+				},
+				{
+					"id" : "portfolio-2-row",
+					"name" : "PORTFOLIO-STYLE-2ROW",
+					"src" : "data/json/portfolio/portfolio-2-row.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.3,
+					"menuBgAlpha" : 0,
+					"module" : "portfolio"
+				}
+			]
+		},
+		{
+			"id" : "news",
+			"name" : "NEWS",
+			"src" : "data/json/news.json",
+			"bg" : "data/images/bg/bg.jpg",
+			"bgCoverAlpha" : 0.3,
+			"menuBgAlpha" : 0,
+			"module" : "news"
+		},
+		{
+			"id" : "about",
+			"name" : "ABOUT",
+			"childmenus" :
+			[
+				{
+					"id" : "about",
+					"name" : "ABOUT-US",
+					"src" : "data/json/about.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.3,
+					"menuBgAlpha" : 0,
+					"module" : "about"
+				},
+				{
+					"id" : "team",
+					"name" : "TEAM",
+					"src" : "data/json/team.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.8,
+					"menuBgAlpha" : 0,
+					"module" : "team"
+				},
+				{
+					"id" : "contact",
+					"name" : "CONTACT",
+					"src" : "data/json/contact.json",
+					"bg" : "data/images/bg/bg.jpg",
+					"bgCoverAlpha" : 0.3,
+					"menuBgAlpha" : 0,
+					"module" : "contact"
+				}
+			]
+		},
+		{
+			"name" : "BLOG",
+			"link" : "http://themeforest.net/",
+			"window" : "_blank"
+		}
+	]
+}

@@ -1,0 +1,251 @@
+﻿{
+	"setting" :
+	{
+		"gap" : 20,
+		"duration" : 8,
+		"thumbWidth" : 350,
+		"textWidth" : 1152,
+		"isZoomIn" : false,
+		"autoPlay" : true,
+		"isVerticalFit" : true,
+		"needHomeButton" : true,
+		"needDownloadButton" : true,
+		"needInfoButton" : true,
+		"needPinterestButton" : true,
+		"needZoomButton" : true,
+		"showTip" : false,
+		"isBlackWhite" :
+		{
+			"active" : true,
+			"showBlackWhiteFirst" : true
+		}
+	},
+
+	"data" :
+	[
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/01.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/01.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "In blandit orci sed tellus iaculis dapibus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/02.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/02.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante lacinia dictum",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. <br/><br/>Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/03.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/03.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Vestibulum faucibus, purus vel dapibus imperdiet",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. <br/><br/>Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/04.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/04.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Integer a turpis neque, quis convallis nibh",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. <br/><br/>Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/05.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/05.jpg",
+			"thumbHeight" : 525
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/06.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/06.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "In blandit orci sed tellus iaculis dapibus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/07.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/07.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante lacinia dictum",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. <br/><br/>Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/08.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/08.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Vestibulum faucibus, purus vel dapibus imperdiet",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. <br/><br/>Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/09.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/09.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Integer a turpis neque, quis convallis nibh",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. <br/><br/>Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/10.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/10.jpg",
+			"thumbHeight" : 524
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/11.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/11.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "In blandit orci sed tellus iaculis dapibus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/12.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/12.jpg",
+			"thumbHeight" : 234
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante lacinia dictum",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. <br/><br/>Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/13.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/13.jpg",
+			"thumbHeight" : 524
+		},
+		{
+			"title" : "Vestibulum faucibus, purus vel dapibus imperdiet",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. <br/><br/>Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/14.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/14.jpg",
+			"thumbHeight" : 234
+		},
+		{
+			"title" : "Integer a turpis neque, quis convallis nibh",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/15.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/15.jpg",
+			"thumbHeight" : 234
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/16.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/16.jpg",
+			"thumbHeight" : 524
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/01.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/01.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "In blandit orci sed tellus iaculis dapibus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/02.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/02.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante lacinia dictum",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. <br/><br/>Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/03.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/03.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Vestibulum faucibus, purus vel dapibus imperdiet",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. <br/><br/>Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/04.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/04.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Integer a turpis neque, quis convallis nibh",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. <br/><br/>Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/05.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/05.jpg",
+			"thumbHeight" : 525
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/06.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/06.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "In blandit orci sed tellus iaculis dapibus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/07.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/07.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante lacinia dictum",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. <br/><br/>Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/08.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/08.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Vestibulum faucibus, purus vel dapibus imperdiet",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. <br/><br/>Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/09.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/09.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "Integer a turpis neque, quis convallis nibh",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. <br/><br/>Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/10.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/10.jpg",
+			"thumbHeight" : 524
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/11.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/11.jpg",
+			"thumbHeight" : 233
+		},
+		{
+			"title" : "In blandit orci sed tellus iaculis dapibus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/12.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/12.jpg",
+			"thumbHeight" : 234
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante lacinia dictum",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. <br/><br/>Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/13.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/13.jpg",
+			"thumbHeight" : 524
+		},
+		{
+			"title" : "Vestibulum faucibus, purus vel dapibus imperdiet",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. <br/><br/>Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/14.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/14.jpg",
+			"thumbHeight" : 234
+		},
+		{
+			"title" : "Integer a turpis neque, quis convallis nibh",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/15.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/15.jpg",
+			"thumbHeight" : 234
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. <br/><br/>In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero.",
+			"thumburl" : "data/images/gallery/celebrity/thumbs/16.jpg",
+			"imageurl" : "data/images/gallery/celebrity/images/16.jpg",
+			"thumbHeight" : 524
+		}
+	]
+}

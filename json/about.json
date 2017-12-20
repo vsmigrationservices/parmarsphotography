@@ -1,0 +1,9 @@
+﻿{
+	"textWidth" : 800,
+	"textHeight" : 300,
+	"imageWidth" : 300,
+	"imageHeight" : 300,
+	"imageurl" : "data/images/about/01.jpg",
+	"title" : "WHO WE ARE",
+	"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. <br/><br/>Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl. <br/><br/>Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui."
+}

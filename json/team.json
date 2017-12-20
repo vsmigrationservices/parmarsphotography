@@ -1,0 +1,46 @@
+﻿{
+	"setting" :
+	{
+		"itemWidth" : 600,
+		"itemHeight" : 50,
+		"gap" : 25,
+		"moreLabel" : "Read More",
+
+		"imageWidth" : 300,
+		"imageHeight" : 300
+	},
+
+	"data" :
+	[
+		{
+			"name" : "Photographer . Tom",
+			"preview" : "Maecenas ut mauris at dolor rhoncus rhoncus.",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus. <br/><br/>Twitter:<a href='http://themeforest.net/' target='_blank'>http://themeforest.net</a>",
+			"imageurl" : "data/images/team/01.jpg"
+		},
+		{
+			"name" : "Designer . James",
+			"preview" : "Phasellus ut ipsum sed erat pharetra aliquam.",
+			"description" : "Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. <br/><br/>E-mail:<a href='mailto:youremail@gmail.com' target='_blank'>Your-Email@info.com</a>",
+			"imageurl" : "data/images/team/02.jpg"
+		},
+		{
+			"name" : "Programmer . William",
+			"preview" : "Nunc eu ante eget sem faucibus facilisis.",
+			"description" : "Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Twitter:<a href='http://themeforest.net/' target='_blank'>http://themeforest.net</a>",
+			"imageurl" : "data/images/team/03.jpg"
+		},
+		{
+			"name" : "Writer . Thomas",
+			"preview" : "Nam semper accumsan quam, nec condimentum felis luctus sit amet.",
+			"description" : "Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. <br/><br/>E-mail:<a href='mailto:youremail@gmail.com' target='_blank'>Your-Email@info.com</a>",
+			"imageurl" : "data/images/team/04.jpg"
+		},
+		{
+			"name" : "Photographer . Angela",
+			"preview" : "Phasellus ut ipsum sed erat pharetra aliquam.",
+			"description" : "Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. <br/><br/>Twitter:<a href='http://themeforest.net/' target='_blank'>http://themeforest.net</a>",
+			"imageurl" : "data/images/team/05.jpg"
+		}
+	]
+}

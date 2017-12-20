@@ -1,0 +1,100 @@
+﻿{
+	"setting" :
+	{
+		"gap" : 30,
+		"itemWidth" : 320,
+		"itemHeight" : 360,
+		"thumbHeight" : 180,
+
+		"imageWidth" : 300,
+		"imageHeight" : 300,
+		"textWidth" : 800,
+		"textHeight" : 300,
+
+		"readMoreLabel" : "READ MORE"
+	},
+
+	"data" :
+	[
+		{
+			"date" : "2014/07/17",
+			"title" : "Lorem ipsum dolor sit amet",
+			"preview" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui.",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. <br/><br/>Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. <br/><br/>Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla.",
+			"thumburl" : "data/images/news/thumbs/01.jpg",
+			"imageurl" : "data/images/news/images/01.jpg"
+		},
+		{
+			"date" : "2014/07/16",
+			"title" : "In blandit orci sed tellus",
+			"preview" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus.",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. <br/><br/>Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem.",
+			"thumburl" : "data/images/news/thumbs/02.jpg",
+			"imageurl" : "data/images/news/images/02.jpg"
+		},
+		{
+			"date" : "2014/07/15",
+			"title" : "Integer a turpis neque",
+			"preview" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. ",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. <br/><br/>Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros.",
+			"thumburl" : "data/images/news/thumbs/03.jpg",
+			"imageurl" : "data/images/news/images/03.jpg"
+		},
+		{
+			"date" : "2014/07/14",
+			"title" : "Vestibulum faucibus purus",
+			"preview" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper.",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. <br/><br/>Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. <br/><br/>Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus.",
+			"thumburl" : "data/images/news/thumbs/04.jpg",
+			"imageurl" : "data/images/news/images/04.jpg"
+		},
+		{
+			"date" : "2014/07/13",
+			"title" : "In blandit orci sed tellus",
+			"preview" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus.",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. <br/><br/>Curabitur ut nunc in ipsum faucibus placerat. <br/><br/>Donec leo ipsum, molestie quis volutpat vel, feugiat et libero. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur libero sapien, semper id elementum non, porttitor quis lorem. Aenean venenatis pharetra quam. Nulla facilisi. Integer nec leo vel orci euismod euismod id at ante. Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam sit amet laoreet eros. Vivamus orci massa, lobortis eu lobortis in, pellentesque nec sem. Donec sed mauris sapien.",
+			"thumburl" : "data/images/news/thumbs/05.jpg",
+			"imageurl" : "data/images/news/images/05.jpg"
+		},
+		{
+			"date" : "2014/07/12",
+			"title" : "Lorem ipsum dolor sit amet",
+			"preview" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet.",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. <br/><br/>Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue.",
+			"thumburl" : "data/images/news/thumbs/06.jpg",
+			"imageurl" : "data/images/news/images/06.jpg"
+		},
+		{
+			"date" : "2014/07/11",
+			"title" : "In blandit orci sed tellus",
+			"preview" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus.",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis.",
+			"thumburl" : "data/images/news/thumbs/07.jpg",
+			"imageurl" : "data/images/news/images/07.jpg"
+		},
+		{
+			"date" : "2014/07/10",
+			"title" : "Nunc vitae nisl vitae ante",
+			"preview" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat.",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. <br/><br/>Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat.",
+			"thumburl" : "data/images/news/thumbs/08.jpg",
+			"imageurl" : "data/images/news/images/08.jpg"
+		},
+		{
+			"date" : "2014/07/09",
+			"title" : "Vestibulum faucibus purus",
+			"preview" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet.",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. <br/><br/>Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu.",
+			"thumburl" : "data/images/news/thumbs/09.jpg",
+			"imageurl" : "data/images/news/images/09.jpg"
+		},
+		{
+			"date" : "2014/07/08",
+			"title" : "Integer a turpis neque quis",
+			"preview" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum.",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. <br/><br/>Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat.",
+			"thumburl" : "data/images/news/thumbs/10.jpg",
+			"imageurl" : "data/images/news/images/10.jpg"
+		}
+	]
+}

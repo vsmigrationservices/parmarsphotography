@@ -1,0 +1,58 @@
+﻿{
+	"onOverColor" : "0xde3a40",
+	"onOutColor" : "0xffffff",
+	"textColor" : "0xffffff",
+	"bgColor" : "0x121212",
+	"onOutChildMenuColor" : "0xffffff",
+	"childMenuBgColor" : "0x000000",
+	"videoIconColor" : "0xde3a40",
+
+	"menuPosition" : "bottom",
+
+	"logo" :
+	{
+		"width" : 129,
+		"x" : 15,
+		"url" : "data/images/logo/logo.png"
+	},
+
+	"footer" : "Your Company all rights reserved.",
+
+	"background" :
+	{
+		"align" : "lt",
+		"tileURL" : "data/images/bg/tile.png",
+		"tileAlpha" : 0.6
+	},
+
+	"music" :
+	{
+		"setting" :
+		{
+			"active" : true,
+			"isOpen" : true,
+			"volume" : 0.8
+		},
+		"data" :
+		[
+			"data/audio/happy.mp3",
+			"data/audio/on_top_of_the_world.mp3"
+		]
+	},
+
+	"socials" :
+	[
+		{
+			"name" : "facebook",
+			"src" : "data/images/socials/facebook.png",
+			"link" : "http://themeforest.net/",
+			"window" : "_blank"
+		},
+		{
+			"name" : "twitter",
+			"src" : "data/images/socials/twitter.png",
+			"link" : "http://themeforest.net/",
+			"window" : "_blank"
+		}
+	]
+}

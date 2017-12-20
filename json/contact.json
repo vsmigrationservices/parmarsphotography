@@ -1,0 +1,53 @@
+﻿{
+	"setting" :
+	{
+		"active" : true,
+
+		"name" : "NAME",
+		"email" : "E-MAIL",
+		"message" : "MESSAGE",
+
+		"sendButtonLabel" : "SEND",
+
+		"nameIsEmpty" : "** Username Required **",
+		"invalidEmail" : "** Missing field/Invalid email **",
+		"messageIsEmpty" : "** Message Required **",
+
+		"normalBgColor" : "0x333333",
+		"selectBgColor" : "0xde3a40",
+		"bgOverAlpha" : 0,
+		"bgOutAlpha" : 0,
+		"normalBorderColor" : "0xffffff",
+		"selectBorderColor" : "0xde3a40",
+		"selectTextColor" : "0xffffff",
+		"borderOverAlpha" : 1,
+		"borderOutAlpha" : 0.3,
+		"buttonBgOverColor" : "0xde3a40",
+		"buttonBgOutColor" : "0x212121",
+		"buttonTextOverColor" : "0x121212",
+		"buttonTextOutColor" : "0xffffff",
+
+		"status" :
+		{
+			"sending" : "SENDING...",
+			"error" : "ERROR, TRY AGAIN!",
+			"success" : "MESSAGE SENT!"
+		}
+	},
+
+	"data" :
+	{
+		"textWidth" : 380,
+		"deviceTextWidth" : 620,
+		"textHeight" : 300,
+		"formWidth" : 350,
+		"imageWidth" : 300,
+		"imageHeight" : 300,
+		"imageurl" : "data/images/contact/01.jpg",
+		"mapLink" : "http://maps.google.com/",
+		"readMoreLabel" : "View on Google Map",
+		"title" : "CONTACT US",
+		"formTitle" : "MESSAGE BOX",
+		"description" : "<span style='color:#de3a40'>Support: +00 123456789,   Sell: +00 123456789 </span><br/><a href='mailto:youremail@gmail.com' target='_blank'>E-mail:Your-Email@info.com</a><br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet."
+	}
+}

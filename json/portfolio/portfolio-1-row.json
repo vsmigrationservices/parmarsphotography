@@ -1,0 +1,81 @@
+﻿{
+	"setting" :
+	{
+		"gap" : 30,
+		"thumbWidth" : 220,
+		"thumbHeight" : 350,
+		"row" : 1,
+		"useShadow" : true,
+		"showTips" : false,
+		"deviceShowTips" : true,
+		"readMoreLabel" : "VIEW PROJECT"
+	},
+
+	"data" :
+	[
+		{
+			"title" : "Lorem ipsum dolor sit amet",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. <br/><br/>Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/01.jpg",
+
+			"videoWidth" : 640,
+			"videoHeight" : 360,
+			"videourl" : "data/videos/sample.mp4",
+			"videoType" : "video"
+		},
+		{
+			"title" : "In blandit orci sed tellus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. <br/><br/>Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/02.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/02.jpg"
+		},
+		{
+			"title" : "Integer a turpis neque",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. <br/><br/>Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/03.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/03.jpg"
+		},
+		{
+			"title" : "Vestibulum faucibus purus",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. <br/><br/>Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/04.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/04.jpg"
+		},
+		{
+			"title" : "In blandit orci sed tellus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. <br/><br/>Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/05.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/05.jpg"
+		},
+		{
+			"title" : "Lorem ipsum dolor sit amet",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. <br/><br/>Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/06.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/06.jpg"
+		},
+		{
+			"title" : "In blandit orci sed tellus",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. <br/><br/>Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/07.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/07.jpg"
+		},
+		{
+			"title" : "Nunc vitae nisl vitae ante",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. <br/><br/>Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/08.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/08.jpg"
+		},
+		{
+			"title" : "Vestibulum faucibus purus",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/09.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/09.jpg"
+		},
+		{
+			"title" : "Integer a turpis neque quis",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. <br/><br/>Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor.",
+			"thumburl" : "data/images/portfolio/style1/thumbs/10.jpg",
+			"imageurl" : "data/images/portfolio/style1/images/10.jpg"
+		}
+	]
+}

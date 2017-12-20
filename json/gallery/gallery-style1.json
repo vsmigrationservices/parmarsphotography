@@ -1,0 +1,291 @@
+﻿{
+	"setting" :
+	{
+		"gap" : 0,
+		"duration" : 8,
+		"thumbWidth" : 400,
+		"thumbHeight" : 400,
+		"textWidth" : 1152,
+		"isZoomIn" : false,
+		"autoPlay" : true,
+		"isVerticalFit" : true,
+		"needInfoButton" : true,
+		"needPinterestButton" : true,
+		"needZoomButton" : true,
+		"showTip" : true,
+		"tipOverAlpha" : 0,
+		"tipOutAlpha" : 1,
+		"tipType" : 1,
+		"tipBgAlpha" : 0.5,
+		"needHomeButton" : true,
+		"needDownloadButton" : true,
+		"tipBgColor" : "0x000000",
+		"tipTitleColor" : "0xffffff",
+		"tipTitleFontSize" : 16,
+		"buttonBgOverColor" : "0xde3a40",
+		"buttonBgOutColor" : "0xffffff",
+		"buttonTextOverColor" : "0x121212",
+		"buttonTextOutColor" : "0xffffff",
+		"buttonCornerSize" : 16
+	},
+
+	"data" :
+	[
+		{
+			"name" : "Morbi laoreet eros in est",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. <br/><br/>Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/01.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/01.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Curabitur libero sapien",
+			"title" : "IN BLANDIT ORCI SED TELLUS",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. <br/><br/>Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/02.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/02.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Fusce ut quam quis quam varius blandit",
+			"title" : "NUNC VITAE NISL VITAE ANTE",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. <br/><br/>Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/03.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/03.jpg",
+			"buttonText" : "SEE THE DETAIL"
+		},
+		{
+			"name" : "Vestibulum sed dui ipsum",
+			"title" : "VESTIBULUM FAUCIBUS PURUS VEL",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. <br/><br/>Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/04.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/04.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Sed quis nisl eu neque dictum",
+			"title" : "INTEGER A TURPIS NEQUE QUIS",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. <br/><br/>Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/05.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/05.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Aliquam lorem orci",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. <br/><br/>Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/06.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/06.jpg",
+			"buttonText" : "PREVIEW IT"
+		},
+		{
+			"name" : "Donec vel quam ipsum",
+			"title" : "IN BLANDIT ORCI SED TELLUS",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/07.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/07.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Pellentesque viverra",
+			"title" : "NUNC VITAE NISL VITAE ANTE",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. <br/><br/>Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/08.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/08.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Curabitur ut nunc in ipsum",
+			"title" : "VESTIBULUM FAUCIBUS PURUS VEL",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. <br/><br/>Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/09.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/09.jpg",
+			"buttonText" : "ABOUT ME"
+		},
+		{
+			"name" : "Pellentesque sed rutrum lacus",
+			"title" : "INTEGER A TURPIS NEQUE QUIS",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/10.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/10.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Morbi laoreet eros in est",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. <br/><br/>Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/11.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/11.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Curabitur libero sapien",
+			"title" : "IN BLANDIT ORCI SED TELLUS",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. <br/><br/>Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat. Donec leo ipsum, molestie quis volutpat vel, feugiat et libero.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/12.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/12.jpg",
+			"buttonText" : "WHAT'S MORE"
+		},
+		{
+			"name" : "Fusce ut quam quis quam varius blandit",
+			"title" : "NUNC VITAE NISL VITAE ANTE",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. <br/><br/>Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/13.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/13.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Vestibulum sed dui ipsum",
+			"title" : "VESTIBULUM FAUCIBUS PURUS VEL",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. <br/><br/>Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/14.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/14.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Sed quis nisl eu neque dictum",
+			"title" : "INTEGER A TURPIS NEQUE QUIS",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. <br/><br/>Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/15.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/15.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Aliquam lorem orci",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. <br/><br/>Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/16.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/16.jpg",
+			"buttonText" : "PREVIEW"
+		},
+		{
+			"name" : "Morbi laoreet eros in est",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. <br/><br/>Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/01.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/01.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Curabitur libero sapien",
+			"title" : "IN BLANDIT ORCI SED TELLUS",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. <br/><br/>Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/02.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/02.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Fusce ut quam quis quam varius blandit",
+			"title" : "NUNC VITAE NISL VITAE ANTE",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. <br/><br/>Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/03.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/03.jpg",
+			"buttonText" : "SEE THE DETAIL"
+		},
+		{
+			"name" : "Vestibulum sed dui ipsum",
+			"title" : "VESTIBULUM FAUCIBUS PURUS VEL",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. <br/><br/>Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/04.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/04.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Sed quis nisl eu neque dictum",
+			"title" : "INTEGER A TURPIS NEQUE QUIS",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. <br/><br/>Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/05.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/05.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Aliquam lorem orci",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. <br/><br/>Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/06.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/06.jpg",
+			"buttonText" : "PREVIEW IT"
+		},
+		{
+			"name" : "Donec vel quam ipsum",
+			"title" : "IN BLANDIT ORCI SED TELLUS",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. <br/><br/>Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/07.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/07.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Pellentesque viverra",
+			"title" : "NUNC VITAE NISL VITAE ANTE",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. <br/><br/>Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/08.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/08.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Curabitur ut nunc in ipsum",
+			"title" : "VESTIBULUM FAUCIBUS PURUS VEL",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. <br/><br/>Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/09.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/09.jpg",
+			"buttonText" : "ABOUT ME"
+		},
+		{
+			"name" : "Pellentesque sed rutrum lacus",
+			"title" : "INTEGER A TURPIS NEQUE QUIS",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/10.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/10.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Morbi laoreet eros in est",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. <br/><br/>Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/11.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/11.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Curabitur libero sapien",
+			"title" : "IN BLANDIT ORCI SED TELLUS",
+			"description" : "In blandit orci sed tellus iaculis dapibus. Phasellus ut ipsum sed erat pharetra aliquam. Mauris vel fermentum purus. <br/><br/>Donec euismod neque eros, nec sodales massa. Sed pretium interdum faucibus. Phasellus nec leo at libero imperdiet bibendum a eget dui. Nullam posuere, turpis nec placerat dictum, metus erat semper turpis, vel vestibulum lectus urna sit amet dui. Cras imperdiet commodo magna, in ultricies ante molestie sit amet. Phasellus at dui sem. Donec augue risus, eleifend ut posuere id, eleifend vel felis. Suspendisse nec libero a massa facilisis vestibulum. Sed dui lectus, suscipit quis vehicula a, lacinia ac eros. Ut eget leo justo. Curabitur ut nunc in ipsum faucibus placerat. Donec leo ipsum, molestie quis volutpat vel, feugiat et libero.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/12.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/12.jpg",
+			"buttonText" : "WHAT'S MORE"
+		},
+		{
+			"name" : "Fusce ut quam quis quam varius blandit",
+			"title" : "NUNC VITAE NISL VITAE ANTE",
+			"description" : "Nunc vitae nisl vitae ante lacinia dictum. Pellentesque vitae cursus est. Nam in dolor dui. Nullam dapibus porttitor risus, sit amet vestibulum turpis rhoncus volutpat. <br/><br/>Etiam commodo placerat nulla eu euismod. Curabitur pellentesque interdum adipiscing. Sed porttitor viverra condimentum. Ut viverra pharetra facilisis. Etiam tristique placerat turpis vel viverra. Fusce auctor viverra tempus. Aliquam lorem orci, tincidunt ut cursus fringilla, cursus eget erat. Morbi rutrum pulvinar purus quis mollis. Nam tempus congue libero, dictum eleifend ante ultricies in. Fusce ut quam quis quam varius blandit. Fusce ullamcorper lobortis massa lobortis mattis. Phasellus nec velit in quam dignissim lobortis vitae id nibh.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/13.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/13.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Vestibulum sed dui ipsum",
+			"title" : "VESTIBULUM FAUCIBUS PURUS VEL",
+			"description" : "Vestibulum faucibus, purus vel dapibus imperdiet, quam mauris dictum quam, quis lacinia eros libero ut turpis. <br/><br/>Nam semper accumsan quam, nec condimentum felis luctus sit amet. Pellentesque facilisis ullamcorper ullamcorper. Curabitur interdum, augue et viverra faucibus, arcu libero ornare tortor, in tincidunt sem risus ac est. Sed quis nisl eu neque dictum dapibus. Sed vel turpis magna. Pellentesque sed rutrum lacus. Pellentesque viverra vestibulum arcu, in ornare arcu consequat eu. Nam at dolor sit amet neque tempor gravida. Morbi a libero turpis, ut imperdiet erat. Vestibulum sed dui ipsum, in vestibulum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/14.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/14.jpg",
+			"buttonText" : "BROWSE"
+		},
+		{
+			"name" : "Sed quis nisl eu neque dictum",
+			"title" : "INTEGER A TURPIS NEQUE QUIS",
+			"description" : "Integer a turpis neque, quis convallis nibh. Nunc eu ante eget sem faucibus facilisis. Suspendisse sollicitudin congue facilisis. Morbi consectetur accumsan quam sed interdum. Donec vel quam ipsum, commodo volutpat arcu. <br/><br/>Maecenas tortor arcu, aliquet lacinia mattis nec, auctor vitae odio. Praesent consequat scelerisque pharetra. Duis neque libero, venenatis ac fringilla nec, lacinia non dolor. In nec lacinia tellus. Quisque ut risus dolor.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/15.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/15.jpg",
+			"buttonText" : "READ MORE"
+		},
+		{
+			"name" : "Aliquam lorem orci",
+			"title" : "LOREM IPSUM DOLOR SIT AMET",
+			"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus, quis volutpat mauris ornare sit amet. <br/><br/>Mauris justo risus, faucibus iaculis sodales ac, luctus ut dui. Proin dui tortor, aliquam cursus laoreet ac, tincidunt eget est. Aliquam vitae orci metus. In tristique, augue eu dignissim laoreet, libero nibh suscipit lectus, sed eleifend enim enim non nulla. Nullam sagittis, nulla ac cursus suscipit, mi lorem ornare nisl, in luctus augue sapien nec augue. Etiam magna ligula, consequat vitae luctus a, bibendum non tortor. Duis id volutpat libero. Aliquam erat volutpat. Morbi accumsan tempus rhoncus. Sed eros quam, consectetur vitae suscipit eget, lacinia vitae massa.",
+			"thumburl" : "data/images/gallery/fashion/thumbs/16.jpg",
+			"imageurl" : "data/images/gallery/fashion/images/16.jpg",
+			"buttonText" : "PREVIEW"
+		}
+	]
+}

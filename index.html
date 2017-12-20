@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta charset="utf-8">
+        <meta name="keywords" content="photography,black,white,pinetree,fresh,fashion,your-key-words-here"/>
+        <meta name="description" content="This is a fashion Photography HTML5 Template." />
+        <title>Photography HTML5 Template</title>
+        <!-- styles -->
+		<link href="styles/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="styles/main.css" rel="stylesheet" type="text/css">
+        <link href="styles/video-skin.css" rel="stylesheet" type="text/css">
+    </head>
+    <body id="idBody" onload="init()" style="background-color: #121212;overflow-x:hidden;overflow-y:auto;margin:0;padding:0">
+        <div id="spinnerContainer">
+            <div class="spinner" id="spinner"></div>
+            <!--[if lt IE 10]>
+                <div class="ie-loading">loading...</div>
+                <script type="text/javascript">
+                    document.getElementById("spinner").style.display = "none";
+                </script>
+            <![endif]-->
+        </div>
+
+        <div id="container" style="position:fixed"></div>
+        <div id="fixedContainer" style="position:fixed"></div>
+        <div id="deviceRootContainer" style="position:absolute"></div>
+        <div id="preloadContainer" style="position:fixed"></div>
+
+        <img id="texture" src="data/images/assets/texture.png" style="display:none" alt="" />
+
+        <!-- script -->
+        <script src="js/classes/pinetreepreload.js"></script>
+        <script src="js/classes/thirdpart/allinone.min.js"></script>
+        <script src="js/classes/namespace/namespace.min.js"></script>
+        <script src="js/classes/framework.min.js"></script>
+        <script src="js/classes/main.js"></script>
+    </body>
+</html>
